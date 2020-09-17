@@ -1,3 +1,5 @@
+" destination: ~/.config/nvim
+
 " [S-1] General settings
 
 " Mouse integration
