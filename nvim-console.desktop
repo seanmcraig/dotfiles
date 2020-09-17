@@ -1,7 +1,0 @@
-[Desktop Entry]
-Name=Neovim (console)
-Exec=tilix --focus-window --action=app-new-session --command=nvim
-Comment=Open Neovim in terminal
-Terminal=true
-Icon=nvim
-Type=Application
