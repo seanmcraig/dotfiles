@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Neovim (console)
+Exec=/usr/local/bin/nvimix
+Comment=Open Neovim in terminal emulator
+Terminal=true
+Icon=nvim
+Type=Application
