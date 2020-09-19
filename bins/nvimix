@@ -1,0 +1,13 @@
+#!/bin/bash
+
+# Remember to run "chmod +x" on this file.
+
+# Command "nvimix" will maximize an open instance of Tilix 
+# (or create a new one if none are open), open a new session
+# within that instance of Tilix, and then open nvim in that
+# new session.
+
+# I use this in a .desktop file to integrate terminal Neovim
+# into the GUI side of my workflow
+
+tilix --focus-window --action=app-new-session --command="nvim $@"
